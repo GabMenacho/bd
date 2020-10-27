@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+Código_Produto,int(11),NO,PRI,NULL,auto_increment
+Nome_Produto,varchar(255),NO,,NULL,
+Descrição_Produto,varchar(350),YES,,NULL,
+Preço_Produto,float,YES,,NULL,
+Nome_Imagem,varchar(255),YES,,NULL,
